@@ -91,7 +91,7 @@ git clone https://github.com/tejarshaarigila/AWS-facial-rekognition-system.git
   Execute the facial recognition script:
 
   ```bash
-  python3 recognize_face.py
+  python3 FaceRekognizer.py
   ```
 
   This script captures video from the Raspberry Pi camera, detects faces, and verifies them against registered clients using **AWS Rekognition**.
